@@ -1,0 +1,15 @@
+@media only screen  and (min-width: 50em){/*(媒体查询的优先级别非常高，这里的rem不是相对于html的，而是相对于浏览器默认的1rem=16px)、但是这里用em的兼容性更好*/
+
+}
+
+
+
+@media only screen  and (min-width: 30.0625em) and (max-width: 50em) {
+
+}
+
+
+
+@media only screen  and (max-width: 30em){
+
+}
